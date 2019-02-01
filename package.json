@@ -1,0 +1,11 @@
+{
+  "name": "vuessr",
+  "version": "1.0.0",
+  "description": "learn vue ssr and create project not use cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
